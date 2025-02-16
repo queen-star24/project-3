@@ -1,0 +1,94 @@
+
+
+
+body{
+    background-color:hsl(30, 54%, 90%);
+    font-size: (paragraph)16px;
+    width: 1440px;
+    padding-left: 5%;
+    font-family: 'roboto', Young Serif;
+    font-weight: 50px;
+    
+}
+.beauty{
+    
+    background-color: white;
+
+    border-radius: 45px;
+}
+#six{
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 60px;
+    border-radius: 20px;
+
+    
+}
+img{
+    border-bottom-right-radius: 10px;
+    border: bottom left radius 10px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+h1{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    padding-left: 60px;
+    
+}
+h3{
+    color: hsl(332, 51%, 32%);
+    font-size: 37px;
+}
+p{
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+#nine{
+    padding-left: 50px;
+}
+.two{
+    font-size: 24px;
+    padding-left: 50px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 30px;
+    line-height: 37px;
+}
+.three{
+    font-size: 24px;
+    padding-left: 50px;
+    line-height: 37px;
+}
+.four{
+    font-size: 24px;
+    padding-left: 50px;
+    line-height: 37px;
+}
+.five{
+    font-size: 24px;
+    padding-left: 50px;
+    line-height: 40px;
+}
+td{
+    width: 100%;
+    height: 30px;
+
+}
+#seven{
+    color: hsl(332, 51%, 32%);
+    padding-right: 500px;  
+}
+#eight{
+    color: hsl(332, 51%, 32%);
+    padding-right: 500px;
+}
+#buble{
+    color: hsl(332, 51%, 32%);
+    padding-right: 500px; 
+}
+#double{
+    color: hsl(332, 51%, 32%);
+    padding-right: 500px; 
+}

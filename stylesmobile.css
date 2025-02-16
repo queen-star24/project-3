@@ -1,0 +1,103 @@
+
+
+
+body{
+    background-color:hsl(30, 54%, 90%);
+    font-size: (paragraph)16px;
+    width: 375px;
+    padding-left: 5%;
+    font-family: 'roboto', Young Serif;
+    font-weight: 50px;
+    margin-left: 35%;
+    
+}
+.beauty{
+    
+    background-color: white;
+
+    border-radius: 45px;
+    
+}
+#six{
+    align-items: center;
+    padding-top: 40px;
+    border-radius: 20px;
+    width: 370px;
+    height: 350px;
+
+    
+}
+img{
+    border-bottom-right-radius: 10px;
+    border: bottom left radius 10px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+h1{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    padding-left: 60px;
+    
+}
+h3{
+    color: hsl(332, 51%, 32%);
+    font-size: 37px;
+}
+p{
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+#nine{
+    padding-left: 20px;
+}
+.two{
+    font-size: 24px;
+    padding-left: 10px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 30px;
+    line-height: 37px;
+}
+.three{
+    font-size: 24px;
+    padding-left: 20px;
+    line-height: 37px;
+}
+.four{
+    font-size: 24px;
+    padding-left: 10px;
+    line-height: 37px;
+}
+.five{
+    font-size: 24px;
+    padding-left: 20px;
+    line-height: 40px;
+}
+td{
+    width: 0px;
+    height: 30px;
+
+}
+#seven{
+    color: hsl(332, 51%, 32%);
+    padding-right: 180px;
+    word-spacing: 30px;
+      
+}
+#eight{
+    color: hsl(332, 51%, 32%);
+    padding-right: 180px;
+    white-space: 20px;
+    
+}
+#buble{
+    color: hsl(332, 51%, 32%);
+    padding-right: 180px;
+    
+}
+#double{
+    color: hsl(332, 51%, 32%);
+    padding-right: 180px;
+    
+}
